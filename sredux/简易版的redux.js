@@ -22,10 +22,10 @@ store.subscribe(() => {
 
 const actions = {
   add: {
-    type: 'ADD';
+    type: 'ADD',
   },
   sub: {
-    type: 'SUB';
+    type: 'SUB',
   }
 };
 
