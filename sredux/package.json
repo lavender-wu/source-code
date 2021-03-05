@@ -1,0 +1,14 @@
+{
+  "name": "sredux",
+  "version": "1.0.0",
+  "description": "简易版redux使用,不使用框架",
+  "main": "简易版的redux.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "redux": "^4.0.5"
+  }
+}
