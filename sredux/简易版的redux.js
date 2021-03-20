@@ -1,6 +1,6 @@
 const redux = require('redux');
 
-const store = createStore(reducerFn);
+const store = redux.createStore(reducerFn);
 
 // 更新store的reducer函数
 function reducerFn(state = 0, action) {
